@@ -1,0 +1,2 @@
+PODS_XGPUSH_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/XGPush/Classes"
+PODS_XGPUSH_OTHER_LDFLAGS = -l"XG-SDK" -l"sqlite3" -l"z.1" -framework "CFNetwork" -framework "CoreTelephony" -framework "Security" -framework "SystemConfiguration"
